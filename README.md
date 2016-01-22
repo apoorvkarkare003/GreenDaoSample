@@ -26,3 +26,13 @@ Gradle dependency for your Java generator project:
     compile 'de.greenrobot:greendao-generator:2.1.0' 
 
 ```
+Getting Started
+==================
+
+1. Fork the project in android-studio and run ExampleDaoGenerator.java first to generate Dao files and directory.
+2. Run the app.
+
+References 
+===========
+
+http://greenrobot.org/greendao/
