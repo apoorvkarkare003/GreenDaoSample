@@ -8,7 +8,7 @@ Introduction
 
 The sample shows creation of database and tables incuding the basic queries performed on it.
 This takes an example of movie->Actor and movie->director relationships to demonstrates one to one, one to many 
-nd many to many relationships.
+and many to many relationships.
 
 Add greenDAO to your project
 ----------------------------
